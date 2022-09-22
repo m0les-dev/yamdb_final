@@ -1,3 +1,4 @@
+![example workflow](https://github.com/m0les-dev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # API для сервиса YAMDB
 
 **YAMDB**  собирает отзывы пользователей на произведения.
