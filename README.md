@@ -59,14 +59,14 @@ docker-compose run web python manage.py loaddata fixtures.json
 
 #### Работа с api
 
-- Документация ко всем эндпоинтам описана в: http://51.250.108.144/redoc/ в формате ReDoc. 
+- Документация ко всем эндпоинтам описана в: http://31.172.67.246/redoc/ в формате ReDoc. 
 
 - Категории: http://31.172.67.246/api/v1/categories/
 - Фильм: http://31.172.67.246/api/v1/titles/3/
 
 
 ## Основные использованные технологии
-* python
+* [python](https://www.python.org/)
 * [django](https://www.djangoproject.com/)
 * [drf](https://www.django-rest-framework.org/)
 * [posgresql](https://www.postgresql.org/)
